@@ -1,0 +1,11 @@
+public class main
+{
+   
+  public static void main(Strage arg[])
+{
+   System.out.println("Hello");
+	System.out.println("hii how are you");
+}
+}
+
+
